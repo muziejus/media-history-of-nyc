@@ -1,17 +1,11 @@
-How does the geography of New York City shape the literature of New
-York City? Does the literature shape the geography in return? In this
-course, we aim to understand the spatiotemporality of the Big Apple
-through novels of the 20th and 21st centuries that recreate and react
-to it. Not only will we read spatially, however, but we will also
-create spatially. Students will make maps that launch projects of
-geographical storytelling as a mode of literary analysis. More
-concretely, we will build online data repositories and exhibits (using
-JavaScript and HTML) that synthesize our reading and mapping
-practices. No previous programming knowledge is needed, but a
-curiosity and interest in puzzle solving is. Novels we read may be
-from among those by Renata Adler, Julia Alvarez, Teju Cole, Don
-DeLillo, F. Scott Fitzgerald, Tanwi Nandini Islam, Rachel Kushner,
-Imbolo Mbue, Claude McKay, Toni Morrison, Ann Petry, Ernesto Quiñonez,
-Kim Stanley Robinson, Tess Slesinger, Edith Wharton, and Colson
-Whitehead.
-
+Designed for English majors and minors, this course examines three intertwined
+questions: What is literature? Why do we read it? and How do we read it? As we
+will see, any attempt to answer these three questions will take us through
+various historical, spatial, political, and cultural fields. More precisely,
+the course will follow a path of engaging with primarily American,
+English-language aesthetic objects (poems, plays, novels, short stories,
+essays) alongside a wider scholarly apparatus that has tried to
+codify, restrict, (de)politicize, champion, demystify, appropriate, critique,
+quantify, or simply complicate those objects. In so doing, we will see how the
+study of literature has several histories, geographies, and politics in its
+relationship with various cultures.

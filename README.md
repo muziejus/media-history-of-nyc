@@ -1,13 +1,13 @@
-# Novel Maps of NY 2017
+# English 101 2017a
 
-This is the syllabus for the course “Digital Literary Studies: Novel Maps of
-NY,” offered in Autumn 2017 at New York University.
+I am teaching “Introduction to the Study of Literature,” or “English 101,” in
+the Autumn of 2017 at NYU. 
 
 This repository is an attempt to use
 [MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
 generate both a [handsome
-webpage](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.html) and a
-[handsome pdf](https://muziejus.github.io/novel-maps-of-ny-2017/syllabus.pdf) of the
+webpage](https://muziejus.github.io/english-101-2017a/syllabus.html) and a
+[handsome pdf](https://muziejus.github.io/english-101-2017a/syllabus.pdf) of the
 syllabus at the same time. This is (not) surprisingly rather tricky. However,
 this is also a template for future syllabi, and I encourage others to tweak
 this work.
@@ -28,8 +28,8 @@ through the html as it exists and fill in text strings.
 ## Usage
 
 ```
-git clone https://github.com/muziejus/novel-maps-of-ny.git
-cd novel-maps-of-ny
+git clone https://github.com/muziejus/english-101-2017a.git
+cd english-101-2017a
 sh process-mmd.sh
 biber syllabus
 xelatex syllabus.tex ; xelatex syllabus.tex
@@ -97,8 +97,8 @@ put off for a later time.
 
 ## Credits
 
-This is a fork of a previous syllabus for a course I taught at NYU,
-“[English 101](https://github.com/muziejus/english-101-2017)” in spring 2017.
+This is a large reworking of a previous syllabus for a course I taught at NYU,
+“[Does It Work?](https://github.com/muziejus/does-it-work)” in autumn 2016.
 
 In order to get the syllabus to sound “NYUish,” I copied (sometimes very
 heavily) from a syllabus prepared by my colleague at NYU, [Jini
@@ -106,6 +106,12 @@ Watson](http://english.fas.nyu.edu/object/JiniWatson.html). She was also
 helpful in giving me a sense of what kinds of assignments and homework students
 could expect at this university. Useful info for someone who’s not taught in a
 US context in over half a decade!
+
+The specific parameters of the English 101 course were greatly enhanced by
+syllabi for the same course designed by Carla María Thomas and Rachael Michelle
+Wilson. The three of us, along with Elizabeth McHenry and Simón Trujillo, are
+the band of five teaching this new course in Spring 2017, and our lengthy email
+chain has also influenced this document.
 
 The bravery to create a `LaTeX` syllabus using the `memoir` class was fueled by
 Kieran Healy’s [custom LaTeX
@@ -125,7 +131,7 @@ ProfHacker articles:
 
 ## License
 
-Novel Maps of NY 2017 by [Moacir P. de Sá Pereira](http://moacir.com) is licensed
+English 101 2017 by [Moacir P. de Sá Pereira](http://moacir.com) is licensed
 under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-nc-sa/3.0/). To view a copy of
 this license, visit

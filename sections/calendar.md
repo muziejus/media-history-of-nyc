@@ -1,19 +1,26 @@
-| Week | Monday | Tuesday | Wednesday |
--------| ------ | --------- | -------- |
-4 Sep | **No Class** | (Office Hours) | Introductions / Whitehead |
-11 Sep | HW1, *Tech Day* | (Office Hours) | |
-18 Sep | | (Office Hours) | |
-25 Sep | | (Office Hours) | | 
-2 Oct | | (Office Hours) | |
-9 Oct | **No Class** | (Office Hours) | |
-16 Oct | | (Office Hours) | |
-23 Oct | | (Office Hours) | |
-30 Oct | | (Office Hours) | |
-6 Nov | | (Office Hours) | |
-13 Nov | | (Office Hours) | |
-20 Nov | | (Office Hours) | **No Class** |
-27 Nov | | (Office Hours) | |
-4 Dec | | (Office Hours) | |
-11 Dec | | makeup class | |
-18 Dec | | | **Final Project Due** |
 
+Thursday plenaries are 18:25–19:40 in the Event Space, 244 Greene. Friday
+plenaries are 11:00–12:15 in the Event Space, 244 Greene. “P:” is the secondary
+text for which a student will be presenting that day.
+
+| Week | Tuesday | Thursday | Plenary | 
+-------| ------- | -------- | ------ |
+4 Sep | (Office Hours) | Introductions |
+*Investigations* ||||
+11 Sep | (Office Hours) | | |
+18 Sep | (Office Hours) | | |
+25 Sep | (Office Hours) | Ngũgĩ | |
+2 Oct | (Office Hours) | Poe | Gitelman plenary |
+9 Oct | (Office Hours) | | |
+16 Oct | (Office Hours) | Doyle | Hoover plenary |
+*NYC* ||||
+23 Oct | (Office Hours) | | |
+30 Oct | (Office Hours) | | |
+6 Nov | (Office Hours) | Noel | Noel plenary |
+13 Nov | (Office Hours) | Mohr | |
+*Canons* ||||
+20 Nov | (Office Hours) | | |
+27 Nov | (Office Hours) | | |
+4 Dec | (Office Hours) | Beckett, Aristotle, Shakespeare | Halpern plenary |
+11 Dec | (Office Hours) | | |
+18 Dec | | **Final Project Due** | |

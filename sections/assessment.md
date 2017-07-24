@@ -1,3 +1,12 @@
+#### Plenary sessions
+
+English 101 features four plenary sessions led by four faculty members in the
+English department. With these sessions, the faculty will give you the
+opportunity to be exposed both to the diverse set of interests that occupy our
+department as well as the diverse faculty itself. Each faculty member will be
+presenting on work that we will have read in class. The plenaries are scheduled
+for Thursdays and Fridays, as noted below. 
+
 #### Participation
 
 **25%** The success of any course is directly related to the levels of engagement
@@ -14,6 +23,8 @@ documentation. Repeated unexcused absence quickly gobbles up the class
 participation component of the grade and begins to threaten your ability to
 even *pass* the course.
 
+Plenaries *cannot be missed*.
+
 In a discussion-oriented class, “active participation” involves the following
 components. All of these are necessary to receive maximum points for
 participation:
@@ -23,13 +34,6 @@ participation:
 * having considered the reading and found points of entry into class discussion via questions about specific passages,
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
-
-#### Digital work
-
-**25%** This course will cumulatively add to your knowledge of the various
-tools you will need to use in order to complete the analytical aspects of the
-coursework. As such, staying current by doing the appropriate digital homework
-is required. 
 
 #### First essay
 
@@ -70,7 +74,7 @@ summarize. These presentations will, hence, require time to prepare. As with
 any assignment, make use of office hours to help clarify any questions you may
 have.
 
-#### Final project
+#### Final essay
 
 **20%** The final essay is a critical work on one of the primary texts we have
 read. It should build on the reading techniques from the first two essays
@@ -78,3 +82,8 @@ as well as make use of at least one of the secondary texts from the course.
 A short précis of the essay (up to 600 words) is due two weeks earlier. It
 should be the essay in miniature—a prose outline, illustrating the essay’s
 structure, context, and argument.
+
+Because of the expanded context and argument, the essay will include some added
+research, aided by the skills learned at the library. The strategies Graff and
+Birkenstein provide will help frame this context and build the argument.  The
+final version of the essay should be 1800–2200 words long.
