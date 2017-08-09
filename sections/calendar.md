@@ -7,20 +7,20 @@ text for which a student will be presenting that day.
 -------| ------- | -------- | ------ |
 4 Sep | (Office Hours) | Introductions |
 *Investigations* ||||
-11 Sep | (Office Hours) | | |
-18 Sep | (Office Hours) | | |
+11 Sep | (Office Hours) | Ngũgĩ | |
+18 Sep | (Office Hours) | Ngũgĩ | |
 25 Sep | (Office Hours) | Ngũgĩ | |
 2 Oct | (Office Hours) | Poe | Gitelman plenary |
 9 Oct | (Office Hours) | | |
 16 Oct | (Office Hours) | Doyle | Hoover plenary |
-*NYC* ||||
-23 Oct | (Office Hours) | | |
-30 Oct | (Office Hours) | | |
+*New York* ||||
+23 Oct | (Office Hours) | Colón, Whitehead | |
+30 Oct | (Office Hours) | Harlem poetry| |
 6 Nov | (Office Hours) | Noel | Noel plenary |
-13 Nov | (Office Hours) | Mohr | |
-*Canons* ||||
-20 Nov | (Office Hours) | | |
-27 Nov | (Office Hours) | | |
-4 Dec | (Office Hours) | Beckett, Aristotle, Shakespeare | Halpern plenary |
-11 Dec | (Office Hours) | | |
+13 Nov | (Office Hours) | Didion | |
+*Genre* ||||
+20 Nov | (Office Hours) | Butler | |
+27 Nov | (Office Hours) | Butler | |
+4 Dec | (Office Hours) | Beckett, Aristotle, & Shakespeare | Halpern plenary |
+11 Dec | (Office Hours) | Stoppard | |
 18 Dec | | **Final Project Due** | |

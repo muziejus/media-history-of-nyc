@@ -67,7 +67,8 @@ secondary text and its argument, and close with links between the secondary
 text and that day’s primary text. Slides, etc., are not necessary.  The
 presentation will be accompanied by a short document (800 words) laying out
 the same information as the presentation did to be turned in at the same
-time as the presentation.
+time as the presentation. For guidelines on giving a good presentation, see [my
+webpage on presentation tips](http://moacir.com/courses/presentation-tips/).
 
 The texts for the presentations will not be easy to read, understand, or even
 summarize. These presentations will, hence, require time to prepare. As with

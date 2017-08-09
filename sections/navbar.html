@@ -1,71 +1,65 @@
-<div role="navigation" class="navbar navbar-inverse navbar-fixed-bottom" markdown=1>
-  <div class="container-fluid" markdown=1>
-    <div class="navbar-header" markdown=1>
-      <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
-        <span class="sr-only">Toggle Navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#" markdown=1>[%slug]</a>
-    </div>
-    <div class="collapse navbar-collapse" id="navbar">
-      <ul class="nav navbar-left navbar-nav" id="navbarSpy">
-        <li class="dropdown"><a aria-expanded="false" aria-haspopup="true"
-    class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Meta-info<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#coursedescription">Description</a></li>
-            <li><a href="#goalsofthecourse">Goals</a></li>
-            <li><a href="#books">Books to buy</a></li>
-          </ul>
+<div role="navigation" id="nav" class="navbar navbar-inverse bg-inverse navbar-toggleable-md fixed-top" markdown=1><!-- Must be div for mmd interpolation -->
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="#" markdown=1>[%slug]</a>
+  <div class="collapse navbar-collapse" id="navbar">
+    <ul class="navbar-nav mr-auto" >
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="metainfo" aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">
+         Meta-info
+        </a>
+        <div class="dropdown-menu" aria-labelledby="metainfo">
+          <a class="dropdown-item" href="#coursedescription">Description</a>
+          <a class="dropdown-item" href="#goalsofthecourse">Goals</a>
+          <a class="dropdown-item" href="#books">Books to buy</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="assessment" aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">
+          Assessment
+        </a>
+          <div class="dropdown-menu" aria-labelledby="assessment">
+            <a class="dropdown-item" href="#plenarysessions">Plenary sessions</a>
+            <a class="dropdown-item" href="#participation">Participation</a>
+            <a class="dropdown-item" href="#firstessay">First essay</a>
+            <a class="dropdown-item" href="#secondessay">Second essay</a>
+            <a class="dropdown-item" href="#secondessayrewrite">Second essay rewrite</a>
+            <a class="dropdown-item" href="#presentation">Presentation</a>
+            <a class="dropdown-item" href="#finalessay">Final essay</a>
+          </div>
         </li>
-        <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Assignments 
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="#plenarysessions">Plenary sessions</a></li>
-            <li><a href="#participation">Participation</a></li>
-            <li><a href="#firstessay">First essay</a></li>
-            <li><a href="#secondessay">Second essay</a></li>
-            <li><a href="#secondessayrewrite">Second essay rewrite</a></li>
-            <li><a href="#presentation">Presentation</a></li>
-            <li><a href="#finalessay">Final essay</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Policies 
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="#assignments">Assignments</a></li>
-            <li><a href="#attendance">Attendance</a></li>
-            <li><a href="#electronics">Electronics</a></li>
-            <li><a href="#communication">Communication</a></li>
-            <li><a href="#disabilities">Disabilities</a></li>
-            <li><a href="#academicintegrity">Academic integrity</a></li>
-            <li><a href="#syllabus">Syllabus</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">Materials
-            <span class="caret"></span>
-          </a>
-          <ul class="dropdown-menu">
-            <li><a href="#schedule">Schedule</a></li>
-            <li><a href="#calendar">Calendar</a></li>
-            <!-- <li><a href="#bibliography">Bibliography</a></li> -->
-          </ul>
-        </li>
-        <!-- <li><a href="#resources">Resources</a></li> -->
-      </ul>
-      <ul class="nav navbar-nav navbar-right" markdown=1>
-        <li markdown=1>
-          [[%instructor]][] 
-        </li>
-      </ul>
-    </div>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="policies" aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">
+          Policies
+        </a>
+        <div class="dropdown-menu" aria-labelledby="policies">
+          <a class="dropdown-item" href="#assignments">Assignments</a>
+          <a class="dropdown-item" href="#attendance">Attendance</a>
+          <a class="dropdown-item" href="#electronics">Electronics</a>
+          <a class="dropdown-item" href="#communication">Communication</a>
+          <a class="dropdown-item" href="#disabilities">Disabilities</a>
+          <a class="dropdown-item" href="#academicintegrity">Academic integrity</a>
+          <a class="dropdown-item" href="#syllabus">Syllabus</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" id="materials" aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" href="#">
+          Materials
+        </a>
+        <div class="dropdown-menu" aria-labelledby="materials">
+          <a class="dropdown-item" href="#schedule">Schedule</a>
+          <a class="dropdown-item" href="#calendar">Calendar</a>
+          <!-- <a class="dropdown-item" href="#bibliography">Bibliography</a> -->
+        </div>
+      </li>
+      <!-- <li><a href="#resources">Resources</a></li> -->
+    </ul>
+    <ul class="navbar-nav" markdown=1>
+      <li class="nav-item" markdown=1>
+        [[%instructor]][] 
+      </li>
+    </ul>
   </div>
 </div>
-<!-- <div id="main" data-spy="scroll" data-target="navbarSpy" data-offset="0" class="container" style="max-width: 730px; position: relative;"> -->
-<div id="main" style="max-width: 830px;" class="container">
+<div id="main" style="padding-top: 60px; max-width: 830px;" class="container">
