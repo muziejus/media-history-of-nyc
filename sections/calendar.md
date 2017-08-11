@@ -11,13 +11,13 @@ text for which a student will be presenting that day.
 18 Sep | (Office Hours) | Ngũgĩ | |
 25 Sep | (Office Hours) | Ngũgĩ | |
 2 Oct | (Office Hours) | Poe | Gitelman plenary |
-9 Oct | (Office Hours) | | |
+9 Oct | (Office Hours) | Mosley | |
 16 Oct | (Office Hours) | Doyle | Hoover plenary |
 *New York* ||||
-23 Oct | (Office Hours) | Colón, Whitehead | |
-30 Oct | (Office Hours) | Harlem poetry| |
-6 Nov | (Office Hours) | Noel | Noel plenary |
-13 Nov | (Office Hours) | Didion | |
+23 Oct | (Office Hours) | Whitehead, Didion, Ridge | |
+30 Oct | (Office Hours) | Harlem poetry, Colón| |
+6 Nov | (Office Hours) | Pietri | Noel plenary |
+13 Nov | (Office Hours) | Mohr | |
 *Genre* ||||
 20 Nov | (Office Hours) | Butler | |
 27 Nov | (Office Hours) | Butler | |
