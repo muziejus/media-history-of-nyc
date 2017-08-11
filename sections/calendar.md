@@ -19,7 +19,6 @@ text for which a student will be presenting that day.
 6 Nov | (Office Hours) | Pietri | Noel plenary |
 13 Nov | (Office Hours) | Mohr | |
 *Genre* ||||
-20 Nov | (Office Hours) | Butler | |
 27 Nov | (Office Hours) | Butler | |
 4 Dec | (Office Hours) | Beckett, Aristotle, & Shakespeare | Halpern plenary |
 11 Dec | (Office Hours) | Stoppard | |
