@@ -20,17 +20,19 @@ Miller, “The Novel and the Police.”
 Sedgwick, “Reparative Reading.”
 * Thursday, 12 Oct: Walter Mosley, _Devil in a Blue Dress_.
 * Thursday, 19 Oct: Arthur Conan Doyle, “The Adventure of Charles Agustus
-Milverton;” Franco Moretti, “Trees.” 
+Milverton,” “The Adventure of the Scarlet Band”; Franco Moretti, “The
+Slaughterhouse of Literature”; Viktor Borisovich Shklovsky, “Sherlock Holmes
+and the Mystery Story.”
 
 ### 2. New York City
 
 Next, we narrow our focus to how literature handles space, in this case the
 city in which we live.
 
-* Thursday, 23 Oct: Colson Whitehead, “City Limits”; Joan Didion, “Goodbye to
-All That”; Mary McCarthy, “Portrait of an Intellectual as a Yale Man.”
+* Thursday, 23 Oct: Colson Whitehead, “City Limits”; Joan Didion, “Farewell to
+the Enchanted City”; Mary McCarthy, “Portrait of the Intellectual as a Yale Man.”
 * Thursday, 2 Nov: Claude McKay, “The White House,” “A Capitalist at Dinner,”
-“The Tropics in New York,” “If We Must Die,” “Harlem Runs Wild”; Hughes;  Edith Wharton, …
+“The Tropics in New York,” “If We Must Die,” “Harlem Runs Wild”; Ridge;  Edith Wharton, …
 * Thursday, 6 Nov: Pedro Pietri, _Selected Poetry_; Jesús Colón, _A Puerto
 Rican in New York_.
 * Thursday, 13 Nov: Nicholasa Mohr, _Nilda_; José Martí…
