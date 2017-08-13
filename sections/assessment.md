@@ -32,59 +32,47 @@ participation:
 * being in class on time,
 * arriving having done the reading for that day,
 * having considered the reading and found points of entry into class discussion via questions about specific passages,
+* participating in short writing assignments both in class and as homework,
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
 
 #### First essay
 
 **15%** The first essay will be in response to a prompt. It should be 900–1200 words
-long.
+long. It will be emailed to me by 23:59 on Tuesday, 21 Oct. You will all read
+each other’s papers, and we will spend part of class on the 23rd critiquing
+each other’s work. Revisions will be due at 23:59 the following Tuesday. The
+grade will depend on the coherence and originality of your argument, as well
+as your participation and response during the critique. As with all the
+papers, your work should be your own, and not merely a reproduction of our
+discussions in class.
 
 #### Second essay
 
-**10%** The second essay features a reading of a passage from a work we have
-read for class. You should show the passage’s importance to the text as a
-whole. This essay should also be 900–1200 words long. It should also
-include, marked on the page, the various “templates” (in the Graff and
-Birkenstein sense) you make use of. It should be handed in by 5 p.m. on the
-due date in my mailbox on the second floor of 244 Greene St.
-
-#### Second essay rewrite
-
-**10%** The rewrite of the second essay is an opportunity to build upon the
-second essay by incorporating some of the additional texts you have been
-exposed to in the presentations. This rewrite should be 1200–1500 words
-long, and it should also feature the aforementioned templates.
+**15%** The second essay depends on the genre you choose to write about. If
+you are writing about poetry, choose a few poems and demonstrate a link
+between them. If you are writing about prose, choose a passage (about a page
+or less), and demonstrate its importance to the text as a whole. This essay
+should also be 900–1200 words long. As with the previous essay, it should be
+emailed by 23:59 on Tuesday, 25 Nov. Again, we will critique each other’s work
+in class on the 27th, and then revisions will be due the following Tuesday.
 
 #### Presentation
 
-**20%** Throughout the semester, secondary texts have been paired with with
-primary reading for that day. At the beginning of the semester, you will
-choose a secondary text and present on it later in the semester. The
-presentation should be 10–15 minutes long. A good presentation will provide
-context for the secondary text itself, feature a thorough summary of the
-secondary text and its argument, and close with links between the secondary
-text and that day’s primary text. Slides, etc., are not necessary.  The
-presentation will be accompanied by a short document (800 words) laying out
-the same information as the presentation did to be turned in at the same
-time as the presentation. For guidelines on giving a good presentation, see [my
-webpage on presentation tips](http://moacir.com/courses/presentation-tips/).
-
-The texts for the presentations will not be easy to read, understand, or even
-summarize. These presentations will, hence, require time to prepare. As with
-any assignment, make use of office hours to help clarify any questions you may
-have.
+**20%** At some point in the semester, you will present secondary material of
+your choice regarding the text we are reading for that day. The secondary
+material should be contemporaneous with the original text, so book reviews in
+magazines and the like are the best fit. The presentation should be 5–7
+minutes long. time as the presentation. For guidelines on giving a good
+presentation, see [my webpage on presentation
+tips](http://moacir.com/courses/presentation-tips/).
 
 #### Final essay
 
-**20%** The final essay is a critical work on one of the primary texts we have
-read. It should build on the reading techniques from the first two essays
-as well as make use of at least one of the secondary texts from the course.
-A short précis of the essay (up to 600 words) is due two weeks earlier. It
-should be the essay in miniature—a prose outline, illustrating the essay’s
-structure, context, and argument.
-
-Because of the expanded context and argument, the essay will include some added
-research, aided by the skills learned at the library. The strategies Graff and
-Birkenstein provide will help frame this context and build the argument.  The
-final version of the essay should be 1800–2200 words long.
+**25%** The final essay is a critical work on one of the texts we have read.
+It should build on the reading techniques from the first two essays, arguing a
+larger point. You cannot write about a text you have already written about. A short
+précis of the essay (up to 600 words) is due by 23:59 on 9 Dec. It should
+model the essay in miniature—a prose outline, illustrating the essay’s structure,
+context, and argument. We will discuss the précis in class. The final version
+of the essay should be 1700–2000 words long.
