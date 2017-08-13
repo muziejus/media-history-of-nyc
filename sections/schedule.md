@@ -1,6 +1,5 @@
 Required readings indicated with quotation marks (“”) will be available as
-pdfs. *They should be printed out for use in class*. The texts for
-presentations.
+pdfs. *They should be printed out for use in class*. 
 
 The list of references at the end of the pdf version of the syllabus provides
 bibliographic details for all the texts for the course.
