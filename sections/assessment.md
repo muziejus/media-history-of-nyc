@@ -9,7 +9,7 @@ for Thursdays and Fridays, as noted below.
 
 #### Participation
 
-**25%** The success of any course is directly related to the levels of engagement
+**15%** The success of any course is directly related to the levels of engagement
 brought both by the instructor and the students. As such, class participation
 is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
@@ -38,7 +38,7 @@ participation:
 
 #### First essay
 
-**15%** The first essay will be in response to a prompt. It should be 900–1200 words
+**20%** The first essay will be in response to a prompt. It should be 900–1200 words
 long. It will be emailed to me by 23:59 on Tuesday, 21 Oct. You will all read
 each other’s papers, and we will spend part of class on the 23rd critiquing
 each other’s work. Revisions will be due at 23:59 the following Tuesday. The
@@ -49,7 +49,7 @@ discussions in class.
 
 #### Second essay
 
-**15%** The second essay depends on the genre you choose to write about. If
+**20%** The second essay depends on the genre you choose to write about. If
 you are writing about poetry, choose a few poems and demonstrate a link
 between them. If you are writing about prose, choose a passage (about a page
 or less), and demonstrate its importance to the text as a whole. This essay
@@ -63,9 +63,8 @@ in class on the 27th, and then revisions will be due the following Tuesday.
 your choice regarding the text we are reading for that day. The secondary
 material should be contemporaneous with the original text, so book reviews in
 magazines and the like are the best fit. The presentation should be 5–7
-minutes long. time as the presentation. For guidelines on giving a good
-presentation, see [my webpage on presentation
-tips](http://moacir.com/courses/presentation-tips/).
+minutes long. For guidelines on giving a good presentation, see [my webpage on
+presentation tips](http://moacir.com/courses/presentation-tips/).
 
 #### Final essay
 
