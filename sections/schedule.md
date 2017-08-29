@@ -25,10 +25,10 @@ Next, we narrow our focus to how literature handles space, in this case the
 city in which we live.
 
 * Thursday, 23 Oct: Colson Whitehead, “City Limits”; Joan Didion, “Farewell to
-the Enchanted City”; Mary McCarthy, “Portrait of the Intellectual as a Yale
-Man.”
-* Thursday, 2 Nov: Claude McKay, “The Tropics in New York,” “If We Must Die,”
-“Harlem Runs Wild”; Edith Wharton, “After Holbein”; Lola Ridge, “Manhattan,” “Flotsam,” “Bowery Afternoon.”
+the Enchanted City”; Edith Wharton, “After Holbein.” 
+* Thursday, 2 Nov: Mary McCarthy, “Portrait of the Intellectual as a Yale
+Man”; Claude McKay, “The Tropics in New York,”  
+“Harlem Runs Wild”; Lola Ridge, “Manhattan,” “Flotsam,” “Bowery Afternoon.”
 * Thursday, 6 Nov: Pedro Pietri, _Selected Poetry_; Jesús Colón, _A Puerto Rican in New York_.
 
 ### 3. Genre and Multiple Worlds
@@ -39,7 +39,7 @@ that is genre, as well as the worlds created by the authors.
 * Thursday, 13 Nov: Octavia Butler, _Parable of the Sower_, through ch. 12. 
 * Thursday, 27 Nov: Octavia Butler, _Parable of the Sower_, to end; Lauren Berlant,
 “Introduction: Affect in the Present.”
-* Thursday, 4 Dec: Aristotle, _Poetics_; Samuel Beckett, _Waiting for Godot_;
+* Thursday, 4 Dec: Aristotle, _Poetics_ through part 11; Samuel Beckett, _Waiting for Godot_;
 William Shakespeare, _Hamlet_ 5.1 (and rest as necessary).
 * Thursday, 11 Dec: Tom Stoppard, _Rosencrantz and Guildenstern Are Dead_ and
 _Arcadia_.

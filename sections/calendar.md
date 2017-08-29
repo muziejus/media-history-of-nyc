@@ -13,8 +13,8 @@ plenaries are 11:00–12:15 in the Event Space, 244 Greene.
 9 Oct | (Office Hours) | Mosley | |
 16 Oct | (Office Hours) | Mosley, Doyle, Shklovsky, Moretti | Hoover plenary |
 *New York* ||||
-23 Oct | (Office Hours), 1st essay draft due | Whitehead, Didion, McCarthy | |
-30 Oct | (Office Hours), 1st essay due | McKay, Wharton, Ridge| |
+23 Oct | (Office Hours), 1st essay draft due | Whitehead, Didion, Wharton| |
+30 Oct | (Office Hours), 1st essay due | McKay, McCarthy, Ridge| |
 6 Nov | (Office Hours) | Pietri, Colón | Noel plenary |
 *Genre* ||||
 13 Nov | (Office Hours) | Butler | |
