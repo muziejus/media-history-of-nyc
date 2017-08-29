@@ -13,7 +13,7 @@ thinking about how detection is used in literature, as well.
 * Thursday, 14 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, part 1.
 * Thursday, 21 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, parts 2 & 3.
 * Thursday, 28 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, part 4.
-* * Thursday, 5 Oct: Edgar Allan Poe, “The Purloined Letter”; Eve Kosofsky
+* Thursday, 5 Oct: Edgar Allan Poe, “The Purloined Letter”; Eve Kosofsky
 Sedgwick, “Reparative Reading”; Walter Mosley, _Devil in a Blue Dress_,
 through ch. 3.
 * Thursday, 12 Oct: Walter Mosley, _Devil in a Blue Dress_, through ch. 20.
