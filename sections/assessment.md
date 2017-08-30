@@ -9,7 +9,7 @@ for Thursdays and Fridays, as noted below.
 
 #### Participation
 
-**15%** The success of any course is directly related to the levels of engagement
+**10%** The success of any course is directly related to the levels of engagement
 brought both by the instructor and the students. As such, class participation
 is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
@@ -31,14 +31,27 @@ participation:
 
 * being in class on time,
 * arriving having done the reading for that day,
-* having considered the reading and found points of entry into class discussion via questions about specific passages,
-* participating in short writing assignments both in class and as homework,
+* participating in short writing assignments in class,
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
 
+#### Reading journal
+
+**15%** For each class period, you will be required to email me the latest
+entry in your reading journal. A reading journal is where you jot down your
+thoughts regarding that meeting’s reading and have found points of entry that
+will help kickstart class participation with questions about specific
+passages, for example. The journals can be written as emails and should be
+around 300–500 words in length. They are due a half hour before class. These
+are experimental moments for you, so do not hesitate to take risks in your
+interpretations. That said, they should be written clearly. Additionally, this
+is a moment to use Baldick’s dictionary of literary terms to expand your
+critical vocabulary by considering some of the headwords I provide for each
+class.
+
 #### First essay
 
-**20%** The first essay will be in response to a prompt. It should be 900–1200 words
+**15%** The first essay will be in response to a prompt. It should be 900–1200 words
 long. It will be emailed to me by 23:59 on Tuesday, 21 Oct. You will all read
 each other’s papers, and we will spend part of class on the 23rd critiquing
 each other’s work. Revisions will be due at 23:59 the following Tuesday. The
@@ -59,7 +72,7 @@ in class on the 27th, and then revisions will be due the following Tuesday.
 
 #### Presentation
 
-**20%** At some point in the semester, you will present secondary material of
+**15%** At some point in the semester, you will present secondary material of
 your choice regarding the text we are reading for that day. The secondary
 material should be contemporaneous with the original text, so book reviews in
 magazines and the like are the best fit. The presentation should be 5–7
