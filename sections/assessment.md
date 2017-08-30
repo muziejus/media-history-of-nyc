@@ -37,17 +37,18 @@ participation:
 
 #### Reading journal
 
-**15%** For each class period, you will be required to email me the latest
-entry in your reading journal. A reading journal is where you jot down your
-thoughts regarding that meeting’s reading and have found points of entry that
+**15%** For each class meeting, you will be required to email me the latest
+entry in your reading journal a half hour ahead of time (at the latest). A
+reading journal provides you with the opportunity to jot down both your
+thoughts regarding that meeting’s reading and points of entry to the text that
 will help kickstart class participation with questions about specific
 passages, for example. The journals can be written as emails and should be
-around 300–500 words in length. They are due a half hour before class. These
-are experimental moments for you, so do not hesitate to take risks in your
-interpretations. That said, they should be written clearly. Additionally, this
-is a moment to use Baldick’s dictionary of literary terms to expand your
-critical vocabulary by considering some of the headwords I provide for each
-class.
+around 400–600 words in length. These are experimental moments for you, so do
+not hesitate to take risks in your interpretations. That said, they should be
+written clearly. Additionally, this is a moment to use Baldick’s dictionary of
+literary terms to expand your critical vocabulary by using the headwords I
+provide for each class. Read the entries and see how they relate to the
+meeting’s readings.
 
 #### First essay
 

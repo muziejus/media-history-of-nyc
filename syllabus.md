@@ -64,7 +64,7 @@ webpage](http://moacir.com/courses-nyu/english-101-2017a). A pdf version is
 [also available](http://moacir.com/courses-nyu/english-101-2017a/syllabus.pdf).
 The source code and documentation for this document is available [at its Github
 repository](http://github.com/muziejus/english-101-2017a). The syllabus is
-©[%year], [%instructor]. It is licensed as Creative Commons 3.0 by-nc-sa,
+©[%year], [%instructor]. It is licensed as Creative Commons 4.0 by-nc-sa,
 giving you permission to share and alter it in any way, as long as it is for
 non-commercial purposes, maintains the license, and gives proper attribution.
 Further information regarding the license, the history of the document, and
