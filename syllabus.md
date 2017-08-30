@@ -76,7 +76,11 @@ influences can be viewed at the Github repository.
 {{schedule.md}}
 
 <!-- \newpage 
-  \printbibliography
+    \begingroup
+    % \setstretch{0.8}
+    \setlength\bibitemsep{0pt}
+    \printbibliography
+    \endgroup
   \newpage -->
 
 ## Calendar
