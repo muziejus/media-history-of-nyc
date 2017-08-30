@@ -42,7 +42,7 @@ entry in your reading journal a half hour ahead of time (at the latest). A
 reading journal provides you with the opportunity to jot down both your
 thoughts regarding that meeting’s reading and points of entry to the text that
 will help kickstart class participation with questions about specific
-passages, for example. The journals can be written as emails and should be
+passages. The journals can be written as emails and should be
 around 400–600 words in length. These are experimental moments for you, so do
 not hesitate to take risks in your interpretations. That said, they should be
 written clearly. Additionally, this is a moment to use Baldick’s dictionary of
@@ -58,7 +58,7 @@ each other’s papers, and we will spend part of class on the 23rd critiquing
 each other’s work. Revisions will be due at 23:59 the following Tuesday. The
 grade will depend on the coherence and originality of your argument, as well
 as your participation and response during the critique. As with all the
-papers, your work should be your own, and not merely a reproduction of our
+papers, your work should be your own and not merely a reproduction of our
 discussions in class.
 
 #### Second essay
@@ -76,7 +76,7 @@ in class on the 27th, and then revisions will be due the following Tuesday.
 **15%** At some point in the semester, you will present secondary material of
 your choice regarding the text we are reading for that day. The secondary
 material should be contemporaneous with the original text, so book reviews in
-magazines and the like are the best fit. The presentation should be 5–7
+magazines and the like are the best fit. The presentation should be up to five
 minutes long. For guidelines on giving a good presentation, see [my webpage on
 presentation tips](http://moacir.com/courses/presentation-tips/).
 
@@ -88,4 +88,6 @@ larger point. You cannot write about a text you have already written about. A sh
 précis of the essay (up to 600 words) is due by 23:59 on 9 Dec. It should
 model the essay in miniature—a prose outline, illustrating the essay’s structure,
 context, and argument. We will discuss the précis in class. The final version
-of the essay should be 1700–2000 words long.
+of the essay should be 1700–2000 words long. I am looking for the same things
+as above, but also expect a richer critical vocabulary as you investigate your
+topic of choice.
