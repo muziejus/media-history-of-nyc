@@ -10,7 +10,7 @@ course code: ENGL-UA 101.022
 course term: Autumn 2017
 course room: 45 West 4th St, B07
 course time: R, 9:30–12:15
-office hours: 244 Greene, 506, T 15:00–16:30
+office hours: 244 Greene, 506, T 13:30–16:30
 github url: http://github.com/muziejus/english-101-2017a
 year: 2017
 transclude base: sections
