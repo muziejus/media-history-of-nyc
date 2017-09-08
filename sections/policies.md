@@ -16,13 +16,13 @@ you, but grades should be considered final.
 
 #### Attendance
 
-As indicated above, attendance is required. Three absences will be excused
+As indicated above, attendance is required. Two absences will be excused
 without supplemental documentation, and I encourage you to use these
 tactically. Catching up is your responsibility.
 
 Subsequent absence requires formal documentation. Otherwise it begins to harm
 your final grade. Though class participation is only part of the final grade,
-extreme absenteeism (more than six meetings missed) will put your ability to
+extreme absenteeism (more than four meetings missed) will put your ability to
 pass the course at risk.
 
 Please show up on time to class, as well.

@@ -15,10 +15,10 @@ is vitally important. Similarly, though attendance is logically required for
 class participation, it is not sufficient. This class requires active
 participation both inside the classroom and outside.  
 
-You can miss up to three meetings without penalty, and you can use these
+You can miss up to two meetings without penalty, and you can use these
 opportunities tactically, to provide space and time to either fulfill other
 obligations or recuperate from the previous night. I don’t care why you didn’t
-come. I start to care with the fourth absence, and I start to require
+come. I start to care with the third absence, and I start to require
 documentation. Repeated unexcused absence quickly gobbles up the class
 participation component of the grade and begins to threaten your ability to
 even *pass* the course.
