@@ -25,10 +25,7 @@ through ch. 3. `Detective fiction, Gothic Novel, Psychoanalytic criticism,
 Sociology of Literature, Symbolic`
 * Thursday, 12 Oct: Walter Mosley, _Devil in a Blue Dress_, through ch. 20.
 `Diegesis & Exegesis, Form, Formalism, Hard-boiled, Noir, Plot, Stock character, Type`
-* Thursday, 19 Oct: Walter Mosley, _Devil in a Blue Dress_, to end; Arthur
-Conan Doyle, “The Adventure of Charles Agustus Milverton”; Viktor Borisovich
-Shklovsky, “Sherlock Holmes and the Mystery Story”; Franco Moretti, “The
-Slaughterhouse of Literature”. `Distant reading, Ficelle, Literariness, Russian Formalism, Textual criticism, Unreliable narrator`
+* Thursday, 19 Oct: Walter Mosley, _Devil in a Blue Dress_, to end; Arthur Conan Doyle, “The Adventure of Charles Agustus Milverton,” “The Adventure of the Speckled Band”; Viktor Borisovich Shklovsky, “Sherlock Holmes and the Mystery Story”; Franco Moretti, “The Slaughterhouse of Literature”. `Distant reading, Ficelle, Literariness, Russian Formalism, Textual criticism, Unreliable narrator`
 
 ### 2. New York City
 
