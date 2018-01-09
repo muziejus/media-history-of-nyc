@@ -1,0 +1,84 @@
+\documentclass[10pt,letterpaper,article,oneside]{memoir}
+% Syllabus template modified from http://kjhealy.github.com/latex-custom-kjh
+
+% \usepackage{layouts}[2001/04/29]
+\usepackage{fontspec} % for xelatex
+% Get some fonts for xelatex.
+% EB Garamond is available here: https://www.google.com/fonts/specimen/EB+Garamond
+% It has no bold form, so Helvetica stands in, instead
+% DejaVu is a whole family of fonts, and I love the mono version: http://dejavu-fonts.org/wiki/Main_Page
+\setmainfont[Mapping=tex-text,BoldFont={Helvetica Bold}]{EB Garamond} 
+\setsansfont[Mapping=tex-text]{Helvetica} 
+\setmonofont[Mapping=tex-text,Scale=0.8]{DejaVu Sans Mono}
+
+% \usepackage[notes, 
+% %	isbn=false,
+% %	url=false,
+% % notefield=false,
+% %	bookseries=false,
+% 	includeall=false, % takes care of the above
+% 	doi=true,
+% %	citereset=chapter,
+% %	maxbibnames=2, % only works in the bib and not the footcite.
+% %	minbibnames=1,
+% 	short,
+% 	backend=biber]{biblatex-chicago} % Adds biblatex.
+\usepackage[
+  unicode=true,
+  plainpages=false,
+  breaklinks=true
+  ]{hyperref}
+
+\usepackage{longtable} 
+\hypersetup{pdftitle={$title$}, pdfauthor={$author$}}
+
+% Layout
+\settrimmedsize{\stockheight}{\stockwidth}{*}	% Use entire page
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{1in}{1in}{*}
+\setulmarginsandblock{1in}{1.2in}{*}
+\setmarginnotes{17pt}{51pt}{\onelineskip}
+\setheadfoot{\onelineskip}{2\onelineskip}
+\setheaderspaces{*}{2\onelineskip}{*}
+\checkandfixthelayout
+
+\begin{document}
+
+\title{\LARGE {\normalsize \textsc{$course-code$}\\} \HUGE $title$ \\
+  \Large\url{$course-url$}}     
+\author{\Large $author$\\ \small\texttt{\noindent $email$}}
+\date{$course-term$. $course-room$ \\ $course-time$ \\ \small Office hours: $office-hours$} 
+
+\maketitle
+% Main Content
+
+$body$
+
+zigmorf bagdorf.
+
+\newpage
+
+$if(natbib)$
+$if(biblio-files)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{Bibliography}
+$else$
+\renewcommand\refname{References}
+$endif$
+$endif$
+\bibliography{$biblio-files$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=References]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
+\end{document}
+
+\end{document}

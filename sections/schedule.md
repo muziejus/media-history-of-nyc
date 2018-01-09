@@ -1,3 +1,5 @@
+## Schedule
+
 Required readings indicated with quotation marks (“”) will be available as
 pdfs. *They should be printed out for use in class*. Headwords to read and
 help you with writing your journal entries from Baldick’s dictionary of

@@ -1,11 +1,10 @@
-Designed for English majors and minors, this course examines three intertwined
-questions: What is literature? Why do we read it? and How do we read it? As we
-will see, any attempt to answer these three questions will take us through
-various historical, spatial, political, and cultural fields. More precisely,
-the course will follow a path of engaging with primarily American,
-English-language aesthetic objects (poems, plays, novels, short stories,
-essays) alongside a wider scholarly apparatus that has tried to codify,
-restrict, demystify, appropriate, critique, quantify, or simply complicate
-those objects. In so doing, we will see how the study of literature has
-several histories, geographies, and politics in its relationship with various
-cultures.
+## Course description
+
+New York has played a crucial role in the history of media, and media have
+placed a crucial role in the history of New York. New York has been
+represented by media since Henry Hudson wrote his reports to the Dutch. Media
+institutions have contributed centrally to its economy and social fabric,
+while media geographies have shaped the experiences of city living. This
+course explores media representations, institutions, and geographies across
+time and is organized around the collaborative production of an online
+guidebook to the media history of New York.

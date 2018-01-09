@@ -1,3 +1,5 @@
+### Policies
+
 #### Assignments
 
 The assignment instructions, though detailed in the syllabus, may be enhanced

@@ -1,3 +1,7 @@
+## Course requirements and policies
+
+### Assessment
+
 #### Plenary sessions
 
 English 101 features four plenary sessions led by four faculty members in the

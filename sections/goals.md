@@ -1,3 +1,5 @@
+## Goals of the course 
+
 * to make you better readers and writers by
     * introducing you to 
         * the history of literature as an object of study;
