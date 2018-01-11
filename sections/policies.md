@@ -7,10 +7,11 @@ or supplemented during the course. If you have any questions about an
 assignment, you should ask for clarification early. The assignments are due on
 the dates noted in the syllabus. 
   
-The writing can be submitted electronically. For paper printouts, I prefer 2up
-(two pages per sheet), two-sided printing. Documents should be formatted
-sanely: 12pt type and double-spaced. Please include your word count at the top
-of the document, along with your name.
+All writing will be done in Markdown and saved, staged, committed, and pushed,
+either to our class blog
+([https://nyscapes.github.io/media-history-blog](https://nyscapes.github.io/media-history-blog))
+or to the “Downtown Archaeologies” repository
+([https://nyscapes.github.io/downtown-archaeologies/](https://nyscapes.github.io/downtown-archaeologies/)).
   
 Late assignments jeopardize both your and my rhythms in the class, so they will
 be penalized. I will give you feedback and will happily discuss any work with
@@ -18,14 +19,14 @@ you, but grades should be considered final.
 
 #### Attendance
 
-As indicated above, attendance is required. Two absences will be excused
+As indicated above, attendance is required. Three absences will be excused
 without supplemental documentation, and I encourage you to use these
 tactically. Catching up is your responsibility.
 
 Subsequent absence requires formal documentation. Otherwise it begins to harm
 your final grade. Though class participation is only part of the final grade,
-extreme absenteeism (more than four meetings missed) will put your ability to
-pass the course at risk.
+extreme absenteeism (more than six meetings missed) will put your ability to
+pass the course at risk, even if the absences are excused.
 
 Please show up on time to class, as well.
 

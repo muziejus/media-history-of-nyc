@@ -29,6 +29,6 @@ file_order:
   - sections/assessment.md
   - sections/policies.md
   - sections/schedule.md
-  - sections/calendar.md
-  - sections/links.md
+  # - sections/calendar.md
+  # - sections/links.md
 ---

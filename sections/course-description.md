@@ -10,12 +10,13 @@ time and is organized around the collaborative production of an online
 guidebook to the media history of the East Village.
 
 Concretely, we will be looking at media as networks with archaeologies,
-sacrificing coverage for the opportunities to trace spatiohistories from
-multiple vantage points. Our media history of New York, then, is a media
-history of Downtown (south of 14th Street). We will look to both the Astor
-Place Riot of 1849 and the downtown jazz scene of the 1950s and 1960s before
-switching gears for the second half of the course to study the rich media
-landscape of the East Village and environs from the 1960s to today. The course
-culminates with producing a web-based exploration of that landscape through
-artifacts found and studied by students within the [Downtown Collection at the
-Fales Library](https://guides.nyu.edu/downtown-collection/overview). 
+sacrificing coverage for the opportunities to get dirty and trace
+spatiohistories from multiple vantage points. Our media history of New York,
+then, is an archaeology of Downtown (south of 14th Street). We will first look
+to both the Astor Place Riot of 1849 and the Village Vanguard of the 1950s and
+1960s before switching gears for the second half of the course to study the
+mediascape of the East Village and environs from the 1960s to today. The
+course culminates with producing a web-based exploration of that mediascape,
+“Downtown Archaeologies,” through artifacts found and studied by students
+within the [Downtown Collection at the Fales
+Library](https://guides.nyu.edu/downtown-collection/overview).

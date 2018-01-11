@@ -1,64 +1,52 @@
 ## Schedule
 
 Required readings indicated with quotation marks (“”) will be available as
-pdfs. *They should be printed out for use in class*. Headwords to read and
-help you with writing your journal entries from Baldick’s dictionary of
-literary terms follow each meeting’s readings `in monospace`.
+pdfs. *They should be printed out for use in class*. 
 
 The list of references at the end of the pdf version of the syllabus provides
 bibliographic details for all the texts for the course.
 
-### 1. Investigations
+### 1. Media Archaeologies, Sociologies of Culture
 
-Studying literature is often compared to being a detective, so we begin with
-thinking about how detection is used in literature, as well.
+* Tue, 23 Jan: Introductions. Whitehead, “City Limits.”
+* Thu, 25 Jan: Kittler, “The City Is a Medium.”
+* Tue, 30 Jan: Mattern, _Deep Mapping the Media City_
+* Thu, 2 Feb: `GitHub / Markdown / Atom Tech Day` (Bring your laptops!)
+* Tue, 6 Feb: Mattern, “Conclusion: Coding Urban Pasts and Futures”; Williams,
+  selections.
+* Thu, 8 Feb: `Meeting with Marvin at Fales Library` (Bobst, 3rd floor)
 
-* Thursday, 7 Sep: Introductions, D. A. Miller, “The Novel and the Police.”
-* Thursday, 14 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, part 1.
-`Analepsis & Prolepsis, Defamiliarization, Fabula & Sjužet, Historical novel,
-Négritude, Novel, Postcolonial Literature`
-* Thursday, 21 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, parts 2 & 3.
-`Allegory, Criticism, Dialogic, Discours & Histoire, Heteroglossia`
-* Thursday, 28 Sep: Ngũgĩ wa Thiong’o, _Petals of Blood_, part 4. `Cultural
-materialism, Marxist criticism, Realism, Weltliteratur`
-* Thursday, 5 Oct: Edgar Allan Poe, “The Purloined Letter”; Eve Kosofsky
-Sedgwick, “Reparative Reading”; Walter Mosley, _Devil in a Blue Dress_,
-through ch. 3. `Detective fiction, Gothic Novel, Psychoanalytic criticism,
-Sociology of Literature, Symbolic`
-* Thursday, 12 Oct: Walter Mosley, _Devil in a Blue Dress_, through ch. 20.
-`Diegesis & Exegesis, Form, Formalism, Hard-boiled, Noir, Plot, Stock character, Type`
-* Thursday, 19 Oct: Walter Mosley, _Devil in a Blue Dress_, to end; Arthur Conan Doyle, “The Adventure of Charles Agustus Milverton,” “The Adventure of the Speckled Band”; Viktor Borisovich Shklovsky, “Sherlock Holmes and the Mystery Story”; Franco Moretti, “The Slaughterhouse of Literature”. `Distant reading, Ficelle, Literariness, Russian Formalism, Textual criticism, Unreliable narrator`
+### 2. Astor Place Riot
 
-### 2. New York City
+* Tue, 13 Feb: Baker, _A Glance at New York_ (online). **Dérive 1 due.**
+* Thu, 15 Feb: Foster, selections. Sante, selections.
+* Tue, 20 Feb: Cliff, selections.
+* Thu, 22 Feb: _Account of the Terrific and Fatal Riot at the New-York
+  Astor Place Opera House…_ (online).
 
-Next, we narrow our focus to how literature handles space, in this case the
-city in which we live.
+### 3. Village Vanguard
 
-* Thursday, 23 Oct: Colson Whitehead, “City Limits”; Joan Didion, “Farewell to
-the Enchanted City”; Edith Wharton, “After Holbein.” `Allusion, Autotelic,
-Hermeneutics, Historicism, Leitmotiv, New Journalism, Short story`
-* Thursday, 2 Nov: Mary McCarthy, “Portrait of the Intellectual as a Yale
-Man”; Claude McKay, “The Tropics in New York,” “Harlem Runs Wild”; Lola Ridge, “Manhattan,” “Brooklyn Bridge,” “Flotsam,” “Bowery Afternoon.”
-`Avant-garde, Carnivalization, Harlem Renaissance, Metaphor & Metonymy, Modernism, Naturalism, New York
-Intellectuals, Sublime, Synecdoche`
-* Thursday, 6 Nov: Pedro Pietri, _Selected Poetry_; Jesús Colón, _A Puerto
-Rican in New York_. `Close reading, Epic, Lisible & Scriptible, Lyric, Poetics, Poetry, Proletcult`
+* Tue, 27 Feb: Baldwin, “Sonny’s Blues.” **Dérive 2 due.**
+* Thu, 1 Mar: Gordon, selections.
+* Tue, 6 Mar: Gordon, selections; _Downbeat_ reviews. **Artifact précis due.**
+* Thu, 8 Mar: Nisenson, selections; _Downbeat_ reviews.
 
-### 3. Genre and Multiple Worlds
+### 4. East Village
 
-We close the semester thinking about the contract between author and reader
-that is genre, as well as the worlds created by the authors.
-
-* Thursday, 13 Nov: Octavia Butler, _Parable of the Sower_, through ch. 12.
-`Alterity, Dystopia, Ecocriticism, Intertextuality, Narrator, Narratology,
-Science-Fiction, Speech Act Theory`
-* Thursday, 27 Nov: Octavia Butler, _Parable of the Sower_, to end; Lauren Berlant,
-“Introduction: Affect in the Present.” `Affective, Feminist criticism, Genre, New
-Historicism, Polysemy, Queer Theory`
-* Thursday, 4 Dec: Aristotle, _Poetics_ through part 11; Samuel Beckett,
-_Waiting for Godot_; William Shakespeare, _Hamlet_ 5.1 (and rest as
-necessary). `Absurd, Catharsis, Mimesis, New criticism, Pathos, Synchronic & Diachronic, Tragedy`
-* Thursday, 11 Dec: Tom Stoppard, _Rosencrantz and Guildenstern Are Dead_ and
-_Arcadia_. `Arcadia, Idyll, Irony, Metafiction, Satire, Textuality`
-* Thursday, 18 Dec: **Final Essay Due**
+* Tue, 20 Mar: _Downtown 81_ (online). Sante, selections.
+* Thu, 22 Mar: Pietri, “Puerto Rican Obituary” and “The Spanglish National
+  Anthem.” Sante, selections.
+* Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections.
+* Thu, 29 Mar: Smith, selections.
+* Tue, 3 Apr: _Please Kill Me_, selections. **Artifact post due.**
+* Thu, 5 Apr: _Please Kill Me_, selections.
+* Tue, 10 Apr: _Blank City_ (online). 
+* Thu, 12 Apr: _Aloud_, selections; Estevez, selections.
+* Tue, 17 Apr: _Kill Your Idols_ (online).
+* Thu, 19 Apr: McIntyre, *Up Against the Wall Motherfucker: Posters,
+  Rants, Manifestos and Blasts*.
+* Tue, 24 Apr:  _Aloud_, selections; Estevez, selections.
+* Thu, 26 Apr: `Collaborative Lab`
+* Tue, 1 May: `Collaborative Lab`
+* Thu, 3 May: `Debugging and Going Live Party`
 
