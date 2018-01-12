@@ -3,14 +3,12 @@
 I am teaching “Media History of New York” in Spring 2018 in the [Department of
 Media, Culture, and Communications](http://steinhardt.nyu.edu/mcc/) at NYU. 
 
-This repository is an attempt to use
-[MultiMarkdown](http://fletcher.github.io/MultiMarkdown-5/) in order to
-generate both a [handsome
+This repository is an attempt to generate both a [handsome
 webpage](https://muziejus.github.io/media-history-of-nyc/index.html) and a
-[handsome pdf](https://muziejus.github.io/media-history-of-nyc/syllabus.pdf) of the
-syllabus at the same time. This is (not) surprisingly rather tricky. However,
-this is also a template for future syllabi, and I encourage others to tweak
-this work.
+[handsome pdf](https://muziejus.github.io/media-history-of-nyc/syllabus.pdf)
+of the syllabus at the same time with Markdown. This is (not) surprisingly
+rather tricky. However, this is also a template for future syllabi, and I
+encourage others to tweak this work.
 
 ## Structure
 
