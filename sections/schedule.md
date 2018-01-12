@@ -3,7 +3,7 @@
 Required readings indicated with quotation marks (“”) will be available as
 pdfs. *They should be printed out for use in class*. 
 
-The list of references at the end of the pdf version of the syllabus provides
+The list of references at the end of the syllabus provides
 bibliographic details for all the texts for the course.
 
 ### 1. Media Archæologies, Sociologies of Culture
