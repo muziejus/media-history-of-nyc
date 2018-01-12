@@ -24,7 +24,7 @@ of the templating more easily than with MultiMarkdown.
 The syllabus relies, first and foremost, on the file `metadata.yml`, which
 tells Pandoc where to find the source files, what order to put them in, and
 which templates to use when creating pdfs and htmls. It also relies on a
-BibTeX file (`syllabus.bib`) to generate the bibliographies at the end of each
+BibTeX file (`bib.bib`) to generate the bibliographies at the end of each
 document.
 
 The meat of the syllabus is in the `sections/` folder, and that leaves
