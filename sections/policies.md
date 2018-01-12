@@ -11,7 +11,7 @@ All writing will be done in Markdown and saved, staged, committed, and pushed,
 either to our class blog
 ([https://nyscapes.github.io/media-history-blog](https://nyscapes.github.io/media-history-blog))
 or to the “Downtown Archæologies” repository
-([https://nyscapes.github.io/downtown-archæologies/](https://nyscapes.github.io/downtown-archæologies/)).
+([https://nyscapes.github.io/downtown-archæologies/](https://nyscapes.github.io/downtown-archaeologies/)).
   
 Late assignments jeopardize both your and my rhythms in the class, so they will
 be penalized. I will give you feedback and will happily discuss any work with
