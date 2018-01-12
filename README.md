@@ -49,6 +49,13 @@ I taught at NYU, “[English 101](https://gihub.com/muziejus/english-101-2017a)�
 which was itself, a large reworking of “[Does It
 Work?](https://github.com/muziejus/does-it-work)” from autumn 2016.
 
+Teaching in MCC is a new step for me, and I borrowed a lot of ideas for this
+syllabus from my colleague in the English Dept., [Blevin
+Shelnutt](http://as.nyu.edu/faculty/blevin-shelnutt.html), who
+taught this course earlier. Her syllabus, coupled with rereading Shannon
+Mattern’s short _Deep Mapping the Media City_ sort of made the course fall
+together on their own.
+
 In order to get the syllabus to sound “NYUish,” I copied (sometimes very
 heavily) from a syllabus prepared by my colleague at NYU, [Jini
 Watson](http://english.fas.nyu.edu/object/JiniWatson.html). She was also
