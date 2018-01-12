@@ -53,12 +53,12 @@ $endfor$
 $if(title)$
 <header>
 <h1 class="title">$title$</h1>
-$if(subtitle)$
-<p class="subtitle">$subtitle$</p>
-$endif$
+<h2>$course-code$</h2>
 $for(author)$
-<p class="author">$author$</p>
+<p class="author">$author$ - <code>$email$</code></p>
 $endfor$
+<p class="small">$course-term$. $course-room$ $course-time$ <br />
+  <strong>Office hours:</strong> $office-hours$</p>
 </header>
 $endif$
 $if(toc)$
