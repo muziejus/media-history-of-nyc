@@ -88,10 +88,11 @@ follow basic rules of academic citation.
 #### Final project — “Downtown Archæologies”
 
 **20%** In the last few weeks of the course, we will combine the artifact
-posts with other, shorter works to create the “Downtown Archæologies.”
-Working collaboratively, we will draw connections between our various
-artifacts and determine which nodes are missing between them, subsequently
-filling in those edges with new nodes that take the form of shorter posts
-involving further research either at Fales or elsewhere. We will try to tailor
-the tasks to the strengths of the students. Additional writing, of course,
-should follow basic rules of academic citation.
+posts with other, shorter works to create “[Downtown
+Archæologies](http://nyscapes.github.io/downtown-archaeologies/),” a website
+about Downtown. Working collaboratively, we will draw connections between our
+various artifacts and determine which nodes are missing between them,
+subsequently filling in those edges with new nodes that take the form of
+shorter posts involving further research either at Fales or elsewhere. We will
+try to tailor the tasks to the strengths of the students. Additional writing,
+of course, should follow basic rules of academic citation.
