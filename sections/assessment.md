@@ -74,21 +74,21 @@ encouraged to use other forms of media to supplement the report.
 
 #### Artifact post
 
-*25%* During the second half of the semester, you will craft a report/post (1,000 –
+**25%** During the second half of the semester, you will craft a report/post (1,000 –
 1,500 words) about a single artifact you have found in the [Downtown
 Collection at the Fales
 Library](https://guides.nyu.edu/downtown-collection/overview). In describing
 the artifact, you should position it within the media spatiohistory of
-Downtown by investigating the various networks and archaeologies
+Downtown by investigating the various networks and archæologies
 criss-crossing within the artifact. You will need to pitch me on the artifact
 in the form of the one-paragraph précis. You will also improve upon this post
 over the course of our collaboration on the final project. The post should
 follow basic rules of academic citation.
 
-#### Final project — “Downtown Archaeologies”
+#### Final project — “Downtown Archæologies”
 
 **20%** In the last few weeks of the course, we will combine the artifact
-posts with other, shorter works to create the “Downtown Archaeologies.”
+posts with other, shorter works to create the “Downtown Archæologies.”
 Working collaboratively, we will draw connections between our various
 artifacts and determine which nodes are missing between them, subsequently
 filling in those edges with new nodes that take the form of shorter posts

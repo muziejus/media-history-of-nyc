@@ -4,7 +4,7 @@
     * introducing you to 
         * the spatiohistory of New York City south of 14th St.;
         * thinking about the city as a setting and object;
-        * viewing media through its networks and archaeologies;
+        * viewing media through its networks and archæologies;
     * developing your skills in
         * studying cultural artifacts carefully and analytically;
         * designing and realizing a collaborative research project using the Fales Library;

@@ -10,8 +10,8 @@ the dates noted in the syllabus.
 All writing will be done in Markdown and saved, staged, committed, and pushed,
 either to our class blog
 ([https://nyscapes.github.io/media-history-blog](https://nyscapes.github.io/media-history-blog))
-or to the “Downtown Archaeologies” repository
-([https://nyscapes.github.io/downtown-archaeologies/](https://nyscapes.github.io/downtown-archaeologies/)).
+or to the “Downtown Archæologies” repository
+([https://nyscapes.github.io/downtown-archæologies/](https://nyscapes.github.io/downtown-archæologies/)).
   
 Late assignments jeopardize both your and my rhythms in the class, so they will
 be penalized. I will give you feedback and will happily discuss any work with
@@ -74,4 +74,17 @@ integrity](http://cas.nyu.edu/page/academicintegrity).  Any instance of
 academic dishonesty will result in an F and will be reported to the relevant
 dean for disciplinary action. Remember that plagiarism is a matter of fact, not
 intention. Know what it is, and don’t do it.
+
+#### Syllabus
+
+This syllabus is available at [the course
+webpage](http://moacir.com/courses-nyu/media-history-of-nyc). A pdf version is
+[also available](http://moacir.com/courses-nyu/media-history-of-nyc/syllabus.pdf).
+The source code and documentation for this document is available [at its Github
+repository](http://github.com/muziejus/media-history-of-nyc). The syllabus is
+© 2018, Moacir P. de Sá Pereira. It is licensed as Creative Commons 4.0 by-nc-sa,
+giving you permission to share and alter it in any way, as long as it is for
+non-commercial purposes, maintains the license, and gives proper attribution.
+Further information regarding the license, the history of the document, and
+influences can be viewed at the Github repository.
 

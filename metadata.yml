@@ -13,8 +13,8 @@ office-hours: 244 Greene, 506, W 15:00–16:30
 github-url: http://github.com/muziejus/media-history-of-ny
 year: 2017
 date: October 2017
-template-html: syllabus-template.html
-template: syllabus-template.tex
+template-html: templates/html.html
+template: templates/tex.tex
 bibliography: bib.bib
 # csl: chicago-note-bibliography.csl
 csl: chicago-note.csl
