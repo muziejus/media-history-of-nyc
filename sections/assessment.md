@@ -74,16 +74,21 @@ encouraged to use other forms of media to supplement the report.
 
 #### Artifact post
 
-**25%** During the second half of the semester, you will craft a report/post (1,000 –
-1,500 words) about a single artifact you have found in the [Downtown
-Collection at the Fales
-Library](https://guides.nyu.edu/downtown-collection/overview). In describing
-the artifact, you should position it within the media spatiohistory of
-Downtown by investigating the various networks and archæologies
-criss-crossing within the artifact. You will need to pitch me on the artifact
-in the form of the one-paragraph précis. You will also improve upon this post
-over the course of our collaboration on the final project. The post should
-follow basic rules of academic citation.
+**25%** During the second half of the semester, you will craft a report/post
+(1,000 – 1,500 words) about a single artifact you have found in either the
+[Downtown Collection at the Fales
+Library](https://guides.nyu.edu/downtown-collection/overview) or the [Centro
+Collection](https://centropr.hunter.cuny.edu/collections/collection-descriptions).
+The artifact cannot be in a digital collection; you have to physically visit
+either archive. Furthermore, if you choose to go to Centro, be certain that
+your archive pertains to Puerto Rican culture south of 14th St. 
+
+In describing the artifact, you should position it within the media
+spatiohistory of Downtown by investigating the various networks and
+archæologies criss-crossing within the artifact. You will need to pitch me
+ahead of time on the artifact in the form of the one-paragraph précis. You
+will also improve upon this post over the course of our collaboration on the
+final project. The post should follow basic rules of academic citation.
 
 #### Final project — “Downtown Archæologies”
 
@@ -93,6 +98,6 @@ Archæologies](http://nyscapes.github.io/downtown-archaeologies/),” a website
 about Downtown. Working collaboratively, we will draw connections between our
 various artifacts and determine which nodes are missing between them,
 subsequently filling in those edges with new nodes that take the form of
-shorter posts involving further research either at Fales or elsewhere. We will
-try to tailor the tasks to the strengths of the students. Additional writing,
-of course, should follow basic rules of academic citation.
+shorter posts involving further research either at Fales, the Centro, or
+elsewhere. We will try to tailor the tasks to the strengths of the students.
+Additional writing, of course, should follow basic rules of academic citation.

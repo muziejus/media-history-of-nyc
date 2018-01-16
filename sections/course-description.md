@@ -18,6 +18,8 @@ to both the Astor Place Riot of 1849 and the Village Vanguard of the 1950s and
 mediascape of the East Village and environs from the 1960s to today. The
 course culminates with producing a web-based exploration of that mediascape,
 “[Downtown Archæologies](http://nyscapes.github.io/downtown-archaeologies/),”
-through artifacts found and studied by students within the [Downtown
+through artifacts found and studied by students within either the [Downtown
 Collection at the Fales
-Library](https://guides.nyu.edu/downtown-collection/overview).
+Library](https://guides.nyu.edu/downtown-collection/overview) or the
+Loisaida-specific collections at [Centro](https://centropr.hunter.cuny.edu),
+the Center for Puerto Rican Studies.

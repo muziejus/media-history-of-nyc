@@ -7,7 +7,10 @@
         * viewing media through its networks and archæologies;
     * developing your skills in
         * studying cultural artifacts carefully and analytically;
-        * designing and realizing a collaborative research project using the Fales Library;
+        * designing and realizing a collaborative research project using the
+          Fales Library or Centro Library and Archives;
+        * learning to handle archival material, including rights regarding
+          reproduction and citation;
         * summarizing and presenting analytical texts in class;
         * engaging with opinions in academic writing;
         * making maps with Leaflet;

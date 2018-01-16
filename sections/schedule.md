@@ -9,7 +9,8 @@ bibliographic details for all the texts for the course.
 ### 1. Media Archæologies, Sociologies of Culture
 
 * Tue, 23 Jan: Introductions. Whitehead, “City Limits.”
-* Thu, 25 Jan: Kittler, “The City Is a Medium”; Williams, selections.
+* Thu, 25 Jan: Kittler, “The City Is a Medium”; Williams, “Dominant, Residual,
+  and Emergent,” “Structures of Feeling,” “The Sociology of Culture.”
 * Tue, 30 Jan: Mattern, _Deep Mapping the Media City_
 * Thu, 2 Feb: `GitHub / Markdown / Atom Tech Day` (Bring your laptops!)
 * Tue, 6 Feb: Mattern, “Conclusion: Coding Urban Pasts and Futures”; Sante, “Preface” and “The Body.”
@@ -41,7 +42,7 @@ bibliographic details for all the texts for the course.
   Embassy/Manifesto,” and “El Spanglish National
   Anthem.” Sante, selections.
 * Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections.
-* Thu, 29 Mar: Smith, selections.
+* Thu, 29 Mar: _Please Kill Me_, selections.
 * Tue, 3 Apr: _Please Kill Me_, selections. **Artifact post due.**
 * Thu, 5 Apr: _Please Kill Me_, selections.
 * Tue, 10 Apr: _Blank City_ (online). Sante, “The Lost Sisterhood.”
