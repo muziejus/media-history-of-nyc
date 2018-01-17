@@ -11,8 +11,8 @@ bibliographic details for all the texts for the course.
 * Tue, 23 Jan: Introductions. Whitehead, “City Limits.”
 * Thu, 25 Jan: Kittler, “The City Is a Medium”; Williams, “Dominant, Residual,
   and Emergent,” “Structures of Feeling,” “The Sociology of Culture.”
-* Tue, 30 Jan: Mattern, _Deep Mapping the Media City_
-* Thu, 2 Feb: `GitHub / Markdown / Atom Tech Day` (Bring your laptops!)
+* Tue, 30 Jan: Mattern, _Deep Mapping the Media City_.
+* Thu, 2 Feb: `GitHub / Markdown / Atom Tech Day` **(Bring your laptops!)**.
 * Tue, 6 Feb: Mattern, “Conclusion: Coding Urban Pasts and Futures”; Sante, “Preface” and “The Body.”
 * Thu, 8 Feb: Debord, “Theory of the Dérive” and “Introduction to a Critique
   of Urban Geography”; `Meeting with Marvin at Fales Library` **(Bobst, 3rd
@@ -21,10 +21,12 @@ bibliographic details for all the texts for the course.
 ### 2. The Overdetermined Astor Place Riot
 
 * Tue, 13 Feb: Baker, _A Glance at New York_ (online); Sante, “The Lights.”
-* Thu, 15 Feb: Foster, selections; Sante, “Streets.”
-* Tue, 20 Feb: Cliff, selections. **Dérive 1 due.**
+* Thu, 15 Feb: Foster, “Broadway at Evening,” “Theaters and Public
+  Amusements,” “Mose and Lize”; Sante, “Streets.”
+* Tue, 20 Feb: Cliff, “A Night at the Opera, and Another in Hell,” “America
+  Rules England Tonight!” **Dérive 1 due.**
 * Thu, 22 Feb: _Account of the Terrific and Fatal Riot at the New-York
-  Astor Place Opera House…_ (online).
+  Astor Place Opera House…_ (online); Cliff, “Exit Pursued by a B’hoy”
 
 ### 3. Transgressing and the Village Vanguard
 
@@ -36,6 +38,8 @@ bibliographic details for all the texts for the course.
   Critics”). **Artifact précis due.**
 
 ### 4. The Community of the East Village
+
+(Readings not yet fixed)
 
 * Tue, 20 Mar: _Downtown 81_ (online); Sante, “Rubberneckers,” “Orphans,” “The Drift,” “Bohemia.”
 * Thu, 22 Mar: Pietri, “Puerto Rican Obituary,” “El Puerto Rican
