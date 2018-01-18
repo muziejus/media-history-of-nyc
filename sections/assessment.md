@@ -23,33 +23,36 @@ components. All of these are necessary to receive maximum points for
 participation:
 
 * being in class on time,
-* arriving having done the reading for that day,
+* arriving having done the reading/viewing for that day,
 * participating in short writing assignments in class,
 * participating in class discussion in ways that build upon contributions from others, and
 * refraining from the use of electronic devices.
 
 #### Reading journal and dust collection
 
-**15%** For one class meeting a week (groups will be determined on the first
+**20%** For one class meeting a week (groups will be determined on the first
 day), you will be required to post your latest entry in your reading journal
-three hours ahead of time (at the latest) to our class blog. A reading journal
+three hours ahead of time (at the latest) to our [class
+blog](https://nyscapes.github.io/media-history-blog). A reading journal
 provides you with the opportunity to jot down both your thoughts regarding
-that meeting’s reading and points of entry to the text that will help
-kickstart class participation with questions about specific passages. The
-journals should be around 500 words in length. These are experimental moments
-for you, so do not hesitate to take risks in your readings. That said, they
-should be written clearly. 
+that meeting’s reading/viewing and provides points of entry to the text that
+will help kickstart class participation with questions about specific
+passages/scenes. The journals should be around 500 words in length. These are
+experimental moments for you, so do not hesitate to take risks in your
+readings. That said, they should be written clearly. A tip for viewing:
+watch the films with a notebook in front of you and jot down things you notice
+instead of trying to summarize it all in your head afterward.
 
 After spring break, when we begin to focus on the East Village, you will
-supplement your reading journals with “dust collection,” wherein you add your
-own interactions with the mediascape by walking around the East Village,
-mediated by your telephone or other recording device, to your post. The goal
-here is to help build the foundations that will eventually go into the final
-project. 
+further supplement your reading journals with “dust collection,” wherein you
+add your own interactions with the mediascape by walking around the East
+Village, mediated by your telephone or other recording device, to your post.
+The goal here is to help build the foundations that will eventually go into
+the final project. 
 
 #### Dérives
 
-**30%** You will undertake two
+**25%** You will undertake two
 [dérives](http://www.cddc.vt.edu/sionline/si/theory.html) during the semester.
 In both, you will get lost in Downtown, while also documenting and tracking
 yourself. In order to direct your dérive, you will use either the [Derive
@@ -68,9 +71,11 @@ wandering listlessly about while checking the ’Gram. Stroll without
 headphones; look around and feel the environment around you.
   
 At the end, you will write up a short (1,000–1,250 words) report for each
-dérive, including textual references from our readings. The report will be
-joined by the original Field Papers atlas with notes. You can and are
-encouraged to use other forms of media to supplement the report.
+dérive, including textual references from our readings. The report will be be
+[posted to the Dérive Archive](https://nyscapes.github.io/derive-archive),
+with a Leaflet map detailing the path you took. You can and are encouraged to
+use other forms of media to supplement the report, of course. You will,
+however, also turn in your physical Field Papers atlas and notes.
 
 #### Artifact post
 
@@ -85,10 +90,13 @@ your archive pertains to Puerto Rican culture south of 14th St.
 
 In describing the artifact, you should position it within the media
 spatiohistory of Downtown by investigating the various networks and
-archæologies criss-crossing within the artifact. You will need to pitch me
-ahead of time on the artifact in the form of the one-paragraph précis. You
-will also improve upon this post over the course of our collaboration on the
-final project. The post should follow basic rules of academic citation.
+archæologies criss-crossing within the artifact. That is, additional research
+beyond just inspecting the artifact itself will be necessary. 
+
+You will need to pitch me ahead of time on the artifact in the form of the
+one-paragraph précis. You will also improve upon this post over the course of
+our collaboration on the final project. The post should follow basic rules of
+academic citation.
 
 #### Final project — “Downtown Archæologies”
 

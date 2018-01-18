@@ -9,9 +9,12 @@ the dates noted in the syllabus.
   
 All writing will be done in Markdown and saved, staged, committed, and pushed,
 either to our class blog
-([https://nyscapes.github.io/media-history-blog](https://nyscapes.github.io/media-history-blog))
+([https://nyscapes.github.io/media-history-blog](https://nyscapes.github.io/media-history-blog)),
+the Dérive Archive 
+([https://nyscapes.github.io/derive-archive](https://nyscapes.github.io/derive-archive)),
 or to the “Downtown Archæologies” repository
-([https://nyscapes.github.io/downtown-archaeologies/](https://nyscapes.github.io/downtown-archaeologies/)).
+([https://nyscapes.github.io/downtown-archaeologies/](https://nyscapes.github.io/downtown-archaeologies/)),
+depending on the assignment.
   
 Late assignments jeopardize both your and my rhythms in the class, so they will
 be penalized. I will give you feedback and will happily discuss any work with
