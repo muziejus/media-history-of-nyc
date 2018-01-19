@@ -20,8 +20,8 @@ bibliography: bib.bib
 csl: chicago-note.csl
 nocite: |
   @*
-link-citations: true
 reference-section-title: Bibliography
+link-citations: true
 file_order:
   - sections/course-description.md
   - sections/goals.md

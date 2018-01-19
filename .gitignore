@@ -8,6 +8,7 @@ sample-docs/
 
 assignments/
 pdfs/
+*.tex
 *.out
 *.bcf
 *.blg

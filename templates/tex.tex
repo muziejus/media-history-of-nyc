@@ -11,23 +11,35 @@
 \setsansfont[Mapping=tex-text]{Helvetica} 
 \setmonofont[Mapping=tex-text,Scale=0.8]{DejaVu Sans Mono}
 
-% \usepackage[notes, 
-% %	isbn=false,
-% %	url=false,
-% % notefield=false,
-% %	bookseries=false,
-% 	includeall=false, % takes care of the above
-% 	doi=true,
-% %	citereset=chapter,
-% %	maxbibnames=2, % only works in the bib and not the footcite.
-% %	minbibnames=1,
-% 	short,
-% 	backend=biber]{biblatex-chicago} % Adds biblatex.
+\usepackage[
+notes, 
+%	isbn=false,
+%	url=false,
+% notefield=false,
+%	bookseries=false,
+includeall=false, % takes care of the above
+doi=true,
+%	citereset=chapter,
+%	maxbibnames=2, % only works in the bib and not the footcite.
+%	minbibnames=1,
+short,
+backend=biber]{biblatex-chicago} % Adds biblatex.
+
+\DefineBibliographyStrings{english}{%
+  references = {$reference-section-title$}
+}
+
 \usepackage[
   unicode=true,
   plainpages=false,
   breaklinks=true
   ]{hyperref}
+
+$for(bibliography)$
+\addbibresource{$bibliography$}
+$endfor$
+
+\nocite{*}
 
 \usepackage{longtable} 
 \hypersetup{pdftitle={$title$}, pdfauthor={$author$}}
@@ -68,13 +80,12 @@ $endif$
 $endif$
 $endif$
 $if(biblatex)$
-\printbibliography$if(biblio-title)$[title=References]$endif$
+\SingleSpacing
+\printbibliography$if(biblio-title)$[title=Bibliography]$endif$
 
 $endif$
 $for(include-after)$
 $include-after$
 
 $endfor$
-\end{document}
-
 \end{document}
