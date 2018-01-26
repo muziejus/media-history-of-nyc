@@ -26,7 +26,8 @@ semester.
 
 ### 2. The Overdetermined Astor Place Riot
 
-* Tue, 13 Feb: Baker, _A Glance at New York_@; Sante, “The Lights.”
+* Tue, 13 Feb: Baker, _A Glance at New York_@; Sante, “The Lights.” **Artifact
+  visits begin.**
 * Thu, 15 Feb: Foster, “Broadway at Evening,”@ “Theaters and Public
   Amusements,”@ “Mose and Lize”@; Sante, “Streets.”
 * Tue, 20 Feb: Cliff, “A Night at the Opera, and Another in Hell,”@ “America
@@ -51,10 +52,10 @@ semester.
 (Readings not yet fixed)
 
 * Tue, 20 Mar: _Downtown 81_ (online); Sante, “Rubberneckers,” “Orphans,” “The
-  Drift,” “Bohemia.” **Artifact précis due.**
+  Drift,” “Bohemia.”
 * Thu, 22 Mar: Pietri, “Puerto Rican Obituary,”@ “El Puerto Rican
   Embassy/Manifesto,”@ and “El Spanglish National
-  Anthem;”@ _Aloud_, selections.
+  Anthem;”@ _Aloud_, selections. **Artifact visits end.**
 * Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections.
 * Thu, 29 Mar: _Please Kill Me_, selections.
 * Tue, 3 Apr: _Blank Generation_ (online); _Please Kill Me_, selections. **Artifact post due.**

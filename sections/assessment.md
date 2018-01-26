@@ -88,15 +88,19 @@ The artifact cannot be in a digital collection; you have to physically visit
 either archive. Furthermore, if you choose to go to Centro, be certain that
 your archive pertains to Puerto Rican culture south of 14th St. 
 
-In describing the artifact, you should position it within the media
-spatiohistory of Downtown by investigating the various networks and
-archæologies criss-crossing within the artifact. That is, additional research
-beyond just inspecting the artifact itself will be necessary. 
+Early in the semester, you will be slotted into a specific week during which
+you must make your appointment to visit the archive. You should make the
+appointment as soon as you are slotted into a specific week, as the archives’
+schedules fill up quickly. 
 
-You will need to pitch me ahead of time on the artifact in the form of the
-one-paragraph précis. You will also improve upon this post over the course of
-our collaboration on the final project. The post should follow basic rules of
-academic citation.
+After visiting the artifact, you can begin writing about it. In describing it,
+you should position it within the media spatiohistory of Downtown by
+investigating the various networks and archæologies criss-crossing within the
+artifact. That is, additional research beyond just inspecting the artifact
+itself will be necessary. 
+
+You will also improve upon this post over the course of our collaboration on
+the final project. The post should follow basic rules of academic citation.
 
 #### Final project — “Downtown Archæologies”
 
