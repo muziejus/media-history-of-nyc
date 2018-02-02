@@ -26,46 +26,46 @@ semester.
 
 ### 2. The Overdetermined Astor Place Riot
 
-* Tue, 13 Feb: Baker, _A Glance at New York_@; Sante, “The Lights.” **Artifact
-  visits begin.**
+* Tue, 13 Feb: Baker, _A Glance at New York_@; Sante, “The Lights.” **A posts**
 * Thu, 15 Feb: Foster, “Broadway at Evening,”@ “Theaters and Public
-  Amusements,”@ “Mose and Lize”@; Sante, “Streets.”
+  Amusements,”@ “Mose and Lize”@; Sante, “Streets.” **B posts**
 * Tue, 20 Feb: Cliff, “A Night at the Opera, and Another in Hell,”@ “America
-  Rules England Tonight!”@ **Dérive 1 due.**
+  Rules England Tonight!”@ **Dérive 1 due.** **C posts** **A visits Fales**
 * Thu, 22 Feb: _Account of the Terrific and Fatal Riot at the New-York
-  Astor Place Opera House…_@; Cliff, “Exit Pursued by a B’hoy.”@
+  Astor Place Opera House…_@; Cliff, “Exit Pursued by a B’hoy.”@ **D posts**
 
 ### 3. Transgressing and the Village Vanguard
 
-* Tue, 27 Feb: Baldwin, “Sonny’s Blues”@; Sante, “The Hop.”
+* Tue, 27 Feb: Baldwin, “Sonny’s Blues”@; Sante, “The Hop.” **C posts** **B
+  visits Fales**
 * Thu, 1 Mar: Gordon, _Live at the Village Vanguard_ through ch. 5; Hentoff,
-  “Sonny Rollins”@; Gitler, “’Trane on the Track.”@
+  “Sonny Rollins”@; Gitler, “’Trane on the Track.”@ **D posts**
 * Tue, 6 Mar: Gordon, _Live at the Village Vanguard_, chs. 12–17. **Dérive 2
-  due.**
+  due.** **A posts** **C Visits Fales**
 * Thu, 8 Mar: Nisenson, “Equinox,”@ “The Quartet,”@ “World Music”@; _DownBeat_
   early 1960s articles on John Coltrane
   (“Take 5,”@ “Feather’s Nest,”@ “Chords and Discords,”@
-  “John Coltrane and Eric Dolphy Answer the Jazz Critics”@). 
+  “John Coltrane and Eric Dolphy Answer the Jazz Critics”@). **B posts**
 
 ### 4. The Community of the East Village
 
 (Readings not yet fixed)
 
 * Tue, 20 Mar: _Downtown 81_ (online); Sante, “Rubberneckers,” “Orphans,” “The
-  Drift,” “Bohemia.”
+  Drift,” “Bohemia.” **A posts** **D visits Fales**
 * Thu, 22 Mar: Pietri, “Puerto Rican Obituary,”@ “El Puerto Rican
   Embassy/Manifesto,”@ and “El Spanglish National
-  Anthem;”@ _Aloud_, selections. **Artifact visits end.**
-* Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections.
+  Anthem;”@ _Aloud_, selections. **B posts**
+* Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections. **C posts**
 * Thu, 29 Mar: _Please Kill Me_, selections.
 * Tue, 3 Apr: _Blank Generation_ (online); _Please Kill Me_, selections. **Artifact post due.**
-* Thu, 5 Apr: _Please Kill Me_, selections.
-* Tue, 10 Apr: _Born in Flames_ (online). Sante, “The Lost Sisterhood.”
-* Thu, 12 Apr: _Aloud_, selections; Estevez, selections@.
+* Thu, 5 Apr: _Please Kill Me_, selections. **D posts**
+* Tue, 10 Apr: _Born in Flames_ (online). Sante, “The Lost Sisterhood.” **A posts**
+* Thu, 12 Apr: _Aloud_, selections; Estevez, selections@. **B posts**
 * Tue, 17 Apr: _Blank City_ (online); Sante, “Carnival,” “Night,”
-  “Afterword.”
+  “Afterword.” **C posts**
 * Thu, 19 Apr: McIntyre, *Up Against the Wall Motherfucker: Posters,
-  Rants, Manifestos and Blasts*@, _Please Kill Me_, selections.
+  Rants, Manifestos and Blasts*@, _Please Kill Me_, selections. **D posts**
 * Tue, 24 Apr: _The Universe of Keith Haring_ (online); _Aloud_, selections;
   Estevez, selections@.
 * Thu, 26 Apr: `Collaborative Lab`
