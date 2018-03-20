@@ -51,14 +51,13 @@ semester.
 
 (Readings not yet fixed)
 
-* Tue, 20 Mar: _Downtown 81_ (online); Sante, “Rubberneckers,” “Orphans,” “The
+* Tue, 20 Mar: Sante, “Rubberneckers,” “Orphans,” “The
   Drift,” “Bohemia.” **A posts** **D visits Fales**
-* Thu, 22 Mar: Pietri, “Puerto Rican Obituary,”@ “El Puerto Rican
-  Embassy/Manifesto,”@ and “El Spanglish National
-  Anthem;”@ _Aloud_, selections. **B posts**
-* Tue, 27 Mar: _SlamNation_ (online); _Aloud_, selections. **C posts**
-* Thu, 29 Mar: _Please Kill Me_, selections.
-* Tue, 3 Apr: _Blank Generation_ (online); _Please Kill Me_, selections. **Artifact post due.**
+* Thu, 22 Mar: `Laptop Tech Day` **B posts on Sante/_Downtown 81_**
+* Tue, 27 Mar: Sante discussion from 20 Mar, _Downtown 81_ **C posts**
+* Thu, 29 Mar: Pietri, “Puerto Rican Obituary,”@ “El Puerto Rican
+  Embassy/Manifesto,”@ and “El Spanglish National Anthem”@; first 20 pages of Noel@
+* Tue, 3 Apr: Rest of Noel@; _Aloud_, selections. **Artifact post due.**
 * Thu, 5 Apr: _Please Kill Me_, selections. **D posts**
 * Tue, 10 Apr: _Born in Flames_ (online). Sante, “The Lost Sisterhood.” **A posts**
 * Thu, 12 Apr: _Aloud_, selections; Estevez, selections@. **B posts**
