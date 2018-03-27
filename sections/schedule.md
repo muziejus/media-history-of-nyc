@@ -56,8 +56,9 @@ semester.
 * Thu, 22 Mar: `Laptop Tech Day` **B posts on Sante/_Downtown 81_**
 * Tue, 27 Mar: Sante discussion from 20 Mar, _Downtown 81_ **C posts**
 * Thu, 29 Mar: Pietri, “Puerto Rican Obituary,”@ “El Puerto Rican
-  Embassy/Manifesto,”@ and “El Spanglish National Anthem”@; first 20 pages of Noel@
-* Tue, 3 Apr: Rest of Noel@; _Aloud_, pp. 1–2, 361–362, 369–371. **Artifact post due.**
+  Embassy/Manifesto,”@ and “El Spanglish National Anthem”@; Noel, pp. 41–51
+  and 69–75@
+* Tue, 3 Apr: _Aloud_, pp. 1–2, 361–362, 369–371. **Artifact post due.**
 * Thu, 5 Apr: _Please Kill Me_, prologue and chs. 5, 6, 9, 10, and 12. **D posts**
 * Tue, 10 Apr: _Born in Flames_ (online). Sante, “The Lost Sisterhood.” **A posts**
 * Thu, 12 Apr: _Aloud_, selections; Estevez, selections@. **B posts**
