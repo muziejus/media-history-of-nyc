@@ -61,11 +61,14 @@ semester.
 * Tue, 3 Apr: _Aloud_, pp. 1–2, 361–362, 369–371. **Artifact post due.**
 * Thu, 5 Apr: _Please Kill Me_, prologue and chs. 5, 6, 9, 10, and 12. **D posts**
 * Tue, 10 Apr: _Born in Flames_ (online). Sante, “The Lost Sisterhood.” **A posts**
-* Thu, 12 Apr: _Aloud_, selections; Estevez, selections@. **B posts**
+* Thu, 12 Apr: Estevez, “From Fanon,”@ “I look for peace great graveyard,”@
+  “Manhattan,”@ “Some people are about Jam,”@ “Staring into the eye of
+  truth,”@ “A la mujer Borrinqueña,”@ “News from the front,”@ and “Capital”@;
+  Noel, pp. 75–82. **B posts**
 * Tue, 17 Apr: _Blank City_ (online); Sante, “Carnival,” “Night,”
   “Afterword.” **C posts**
-* Thu, 19 Apr: McIntyre, *Up Against the Wall Motherfucker: Posters,
-  Rants, Manifestos and Blasts*@, _Please Kill Me_, selections. **D posts**
+* Thu, 19 Apr: _Please Kill Me_, chs 18, 20–22, 27, 29, 34; (optional: McIntyre, *Up Against the Wall Motherfucker: Posters,
+  Rants, Manifestos and Blasts*@). **D posts**
 * Tue, 24 Apr: _The Universe of Keith Haring_ (online); _Aloud_, selections;
   Estevez, selections@.
 * Thu, 26 Apr: `Collaborative Lab`
